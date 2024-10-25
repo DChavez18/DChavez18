@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Derek Chavez
 
-I'm a software developer with a passion for the cosmos, MTG, and entomology. I'm a lifelong learner and enjoy exploring the world through code.
+I'm a lifelong learner and enjoy exploring the world through code. Software engineer and IT professional with a strong background in customer service and project management. Skilled in Ruby, Python, Go, Ruby on Rails, SQL, and cloud-based infrastructures. Adept at developing efficient web applications, proficient in troubleshooting, customer service, networking, operating systems, security, and system administration, backed by a Google IT Support Professional certification. Strong desire to drive innovation and excellence in IT and software engineering.
 
 ## Interests
 
@@ -12,13 +12,15 @@ I'm a software developer with a passion for the cosmos, MTG, and entomology. I'm
 
 Feel free to reach out if you have questions related to:
 
-- 💎 Ruby on Rails
+- 💎 Ruby/Rails
 - 🐍 Python
 - 🐹 Go
+- 🔒 Cybersecurity
+- 💻 Technical Support
 
 ## Learning
 
-I'm currently learning Python and Go to expand my skill set.
+I'm currently learning more about Automationa and Security and its importance moving forward!
 
 ## Contact
 
