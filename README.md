@@ -20,7 +20,7 @@ Feel free to reach out if you have questions related to:
 
 ## Learning
 
-I'm currently learning more about Automationa and Security and its importance moving forward!
+I'm currently learning more about Automation and Security and its importance moving forward!
 
 ## Contact
 
