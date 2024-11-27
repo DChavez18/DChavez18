@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Derek Chavez
 
-I'm a lifelong learner and enjoy exploring the world through code. Software engineer and IT professional with a strong background in customer service and project management. Skilled in Ruby, Python, Go, Ruby on Rails, SQL, and cloud-based infrastructures. Adept at developing efficient web applications, proficient in troubleshooting, customer service, networking, operating systems, security, and system administration, backed by a Google IT Support Professional certification. Strong desire to drive innovation and excellence in IT and software engineering.
+I'm a lifelong learner who enjoys exploring the world through code. As a software engineer and IT professional, I bring a strong background in customer service and project management. I am skilled in Ruby, Python, Go, Ruby on Rails, SQL, and cloud-based infrastructures.
+
+With expertise in developing efficient web applications, I am also proficient in troubleshooting, customer service, networking, operating systems, security, and system administration. I hold a Google IT Support Professional certification and CompTIA Security+, which underscores my commitment to security best practices in IT.
+
+I have a strong desire to drive innovation and excellence in both IT and software engineering.
 
 ## Interests
 
